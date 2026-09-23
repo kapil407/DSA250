@@ -13,6 +13,7 @@ int main(){
         }
         arr[j+1]=ele;
     }
+    cout<<endl;
     for(auto val:arr) cout<<val<<" ";
 
     return 0;
